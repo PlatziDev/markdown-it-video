@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "github:sergiodxa/markdown-it-video",
+      "/Users/carlossampol/Proyectos/Platzi/Platzi/django"
+    ]
+  ],
+  "_from": "github:sergiodxa/markdown-it-video",
+  "_id": "markdown-it-video@github:sergiodxa/markdown-it-video#ddbac163ac31c139840ce16a12180b00cddb4939",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/markdown-it-video",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:sergiodxa/markdown-it-video",
+    "rawSpec": "github:sergiodxa/markdown-it-video",
+    "saveSpec": "github:sergiodxa/markdown-it-video",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:sergiodxa/markdown-it-video#ddbac163ac31c139840ce16a12180b00cddb4939",
+  "_spec": "github:sergiodxa/markdown-it-video",
+  "_where": "/Users/carlossampol/Proyectos/Platzi/Platzi/django",
+  "author": {
+    "name": "brianjgeiger"
+  },
+  "bugs": {
+    "url": "https://github.com/brianjgeiger/markdown-it-video/issues"
+  },
+  "dependencies": {},
+  "description": "Markdown-it plugin to embed a hosted videos",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "eslint": "^0.13.0",
+    "eslint-plugin-nodeca": "^1.0.3",
+    "istanbul": "^0.3.5",
+    "markdown-it": "^4.1.0",
+    "markdown-it-testgen": "^0.1.4",
+    "mocha": "^2.1.0"
+  },
+  "homepage": "https://github.com/brianjgeiger/markdown-it-video",
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "markdown-it-video",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianjgeiger/markdown-it-video.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.4.0"
+}
